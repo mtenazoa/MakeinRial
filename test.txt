@@ -1,0 +1,1 @@
+Texto ingresado desde el CMD. 
