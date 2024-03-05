@@ -1,2 +1,1 @@
-Texto ingresado desde el CMD. 
-cambio 4 del archivo. 
+"Nuevo cambio" 
